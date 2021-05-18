@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--23-1lcmenni.xn--/sitemap-4bh4b.xml
+Host: https://xn--23-1lcmenni.xn--p1ai
